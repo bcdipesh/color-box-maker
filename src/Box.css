@@ -1,0 +1,10 @@
+.Box {
+  position: relative;
+  margin: 10px 0;
+}
+
+.Box-remove-btn {
+  position: absolute;
+  right: -30px;
+  cursor: pointer;
+}
